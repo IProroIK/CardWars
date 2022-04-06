@@ -1,0 +1,192 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1276901254, guid: ae3ea1f8c5461486ca77726b77c8df12, type: 3}
+  m_Name: ReplaySettings
+  m_EditorClassIdentifier: 
+  videoSets:
+  - systemLanguages: 0a000000
+    resolutions:
+    - width: 1080
+      height: 1920
+      scalingStrategy: 2
+      scaleOptions:
+        anchors:
+          anchors: 01010101
+        leftPosition:
+          offset: 0
+          manualOffset: 0
+        topPosition:
+          offset: 0
+          manualOffset: 0
+        rightPosition:
+          offset: 0
+          manualOffset: 0
+        bottomPosition:
+          offset: 0
+          manualOffset: 0
+        advancedOffsetOptions: 0
+      separateOptionsForUIInput: 0
+      uiScaleOptions:
+        anchors:
+          anchors: 01010101
+        leftPosition:
+          offset: 0
+          manualOffset: 0
+        topPosition:
+          offset: 0
+          manualOffset: 0
+        rightPosition:
+          offset: 0
+          manualOffset: 0
+        bottomPosition:
+          offset: 0
+          manualOffset: 0
+        advancedOffsetOptions: 0
+      aspectRatioHandling: 0
+      videoBitrate: 0
+      audioBitrate: 0
+    fieldSets: []
+  inputAxes:
+  - name: Horizontal
+    value: 0
+    negativeButton: left
+    positiveButton: right
+    altNegativeButton: a
+    altPositiveButton: d
+  - name: Vertical
+    value: 0
+    negativeButton: down
+    positiveButton: up
+    altNegativeButton: s
+    altPositiveButton: w
+  - name: Fire1
+    value: 0
+    negativeButton: 
+    positiveButton: left ctrl
+    altNegativeButton: 
+    altPositiveButton: mouse 0
+  - name: Fire2
+    value: 0
+    negativeButton: 
+    positiveButton: left alt
+    altNegativeButton: 
+    altPositiveButton: mouse 1
+  - name: Fire3
+    value: 0
+    negativeButton: 
+    positiveButton: left shift
+    altNegativeButton: 
+    altPositiveButton: mouse 2
+  - name: Jump
+    value: 0
+    negativeButton: 
+    positiveButton: space
+    altNegativeButton: 
+    altPositiveButton: 
+  - name: Mouse X
+    value: 0
+    negativeButton: 
+    positiveButton: 
+    altNegativeButton: 
+    altPositiveButton: 
+  - name: Mouse Y
+    value: 0
+    negativeButton: 
+    positiveButton: 
+    altNegativeButton: 
+    altPositiveButton: 
+  - name: Mouse ScrollWheel
+    value: 0
+    negativeButton: 
+    positiveButton: 
+    altNegativeButton: 
+    altPositiveButton: 
+  - name: Horizontal
+    value: 0
+    negativeButton: 
+    positiveButton: 
+    altNegativeButton: 
+    altPositiveButton: 
+  - name: Vertical
+    value: 0
+    negativeButton: 
+    positiveButton: 
+    altNegativeButton: 
+    altPositiveButton: 
+  - name: Fire1
+    value: 0
+    negativeButton: 
+    positiveButton: joystick button 0
+    altNegativeButton: 
+    altPositiveButton: 
+  - name: Fire2
+    value: 0
+    negativeButton: 
+    positiveButton: joystick button 1
+    altNegativeButton: 
+    altPositiveButton: 
+  - name: Fire3
+    value: 0
+    negativeButton: 
+    positiveButton: joystick button 2
+    altNegativeButton: 
+    altPositiveButton: 
+  - name: Jump
+    value: 0
+    negativeButton: 
+    positiveButton: joystick button 3
+    altNegativeButton: 
+    altPositiveButton: 
+  - name: Submit
+    value: 0
+    negativeButton: 
+    positiveButton: return
+    altNegativeButton: 
+    altPositiveButton: joystick button 0
+  - name: Submit
+    value: 0
+    negativeButton: 
+    positiveButton: enter
+    altNegativeButton: 
+    altPositiveButton: space
+  - name: Cancel
+    value: 0
+    negativeButton: 
+    positiveButton: escape
+    altNegativeButton: 
+    altPositiveButton: joystick button 1
+  videoCodec: 0
+  removeScreenshotsAlpha: 0
+  version: 2.12.2
+  previousVersion: 2.11.2
+  targetFps: 60
+  captureImmediately: 1
+  capturePhysics: 0
+  captureCollisions: 0
+  setCaptureDefaultName: 0
+  captureDefaultNamePrefix: 
+  debugRandomsOnCapture: 0
+  debugRandomsOnReplay: 0
+  debugPlayerPrefsOnCapture: 0
+  debugPlayerPrefsOnReplay: 0
+  startCaptureHotKey: 114
+  stopCaptureHotKey: 115
+  lockFocus: 0
+  replayTraceData:
+    guid: 5e02d37c-1f3a-4eca-9b51-4cd3dd900965
+  replayTraceUrl: https://assets.lunalabs.io/uploads/replays/replay/3f87440618ca61a310775984c7fd96ff/1009338/trace.json
+  replayName: exa
+  videoPath: LunaTemp
+  replayId: 1009338
+  captureMode: 0
+  serverEnvironment: 2
+  hasVideoInEditor: 1
